@@ -1,0 +1,10 @@
+﻿orderId,customerEmail,amount,createdAt
+ORD-301,valid1@example.com,"10,500.25",2026-11-22T06:00:00Z
+ORD-302,"quote,comma ""nested""@example.com","2,340.50",2026-11-22T06:15:00Z
+ORD-303,missingcol@example.com,99.95
+ORD-304,extracol@example.com,120.00,2026-11-22T06:30:00Z,UNEXPECTED_COL_5,UNEXPECTED_COL_6
+ORD-305,unclosedquote@example.com,"500.00,2026-11-22T06:45:00Z
+ORD-306,valid2@example.com,750.00,2026-11-22T07:00:00Z
+ORD-306,valid2@example.com,750.00,2026-11-22T07:05:00Z
+
+ORD-307,valid3@example.com,45.00,2026-11-22T07:15:00Z

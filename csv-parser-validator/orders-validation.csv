@@ -1,0 +1,6 @@
+orderId,customerEmail,amount,createdAt
+ORD-101,alice@example.com,"1,250.50",2026-11-22T08:00:00Z
+ORD-102,bad-email,-25.00,not-a-timestamp
+ORD-103,,0.00,2026-11-22T09:15:00Z
+ORD-104,"vip ""gold"" user@example.com",499.99,2026-11-22T10:15:00Z
+ORD-105,bob@example.com,89.99

@@ -1,0 +1,7 @@
+orderId,customerEmail,amount,createdAt
+ORD-201,alice@example.com,"1,250.50",2026-11-22T08:00:00Z
+ORD-201,alice@example.com,"1,400.00",2026-11-22T09:30:00Z
+ORD-202,bad-email,-15.00,not-a-date
+ORD-203,dana@example.com,"2,100.75",2026-11-22T12:00:00Z
+ORD-203,dana@example.com,"1,950.00",2026-11-22T07:45:00Z
+ORD-204,bob@example.com,89.99

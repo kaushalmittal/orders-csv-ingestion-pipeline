@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Recording: Streaming Ingestion" pattern="(file[orders-common]://*&amp;&amp;!file[orders-common]:target//*)||(file[csv-parser-validator]://*&amp;&amp;!file[csv-parser-validator]:target//*)||(file[dedup-split-router]://*&amp;&amp;!file[dedup-split-router]:target//*)||(file[streaming-resilient-ingestor]://*&amp;&amp;!file[streaming-resilient-ingestor]:target//*)" />
+</component>
